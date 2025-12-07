@@ -90,4 +90,4 @@
 - Remove unused 'use' (Haritz Lopez)
 - Merge branch 'WoW-CMS:main' into implement-base-for-armory (Haritz Lopez)
 - Code quality fix (Haritz Lopez)
-- Implement the base for the armory page (Haritz Lopez)
+- Implement the base for the armory page (Haritz Lopez)## Sync from Gitea - 2025-12-07
